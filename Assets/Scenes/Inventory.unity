@@ -2560,8 +2560,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad9b979c70bc95d4882851f78e67a7fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timer: 0.4
+  aTimer: 1
+  bTimer: 1
   a: 0
+  b: 0
 --- !u!1 &580860938
 GameObject:
   m_ObjectHideFlags: 0
@@ -7915,7 +7917,7 @@ GameObject:
   - component: {fileID: 1936292755}
   m_Layer: 5
   m_Name: CraftButtonActive
-  m_TagString: selected
+  m_TagString: buttonActive
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

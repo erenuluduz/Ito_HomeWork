@@ -8,6 +8,7 @@ TagManager:
   - selected
   - buttonNormal
   - buttonSelected
+  - buttonActive
   layers:
   - Default
   - TransparentFX
